@@ -4,9 +4,9 @@
  </a>
 </div>
 
-<h3 align="left">&nbsp; A passionate Data Scientist from Türkiye</h3>
+<h3 align="left">&nbsp; A passionate Software Developer</h3>
 
-- 🔭 I’m currently working on **Python**
+- 🔭 I’m currently working on **Python** and **Javascript**
 
 - 📫 How to reach me **merttkaraman563@gmail.com**
 
